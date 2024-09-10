@@ -1,4 +1,4 @@
-# Alejandro Hinarejos
+# <span style="color:blue;">Alejandro Hinarejos</span>
 
 ## Estudios
 Actualmente, estoy estudiando Desarrollo de Aplicaciones Web, donde estoy adquiriendo habilidades en programación y diseño web para crear aplicaciones funcionales y atractivas.
