@@ -13,11 +13,7 @@ Hola, soy Alejandro Hinarejos, un apasionado por la tecnología y el desarrollo 
 - **Bases de Datos:** MySQL, APIrest
 
 ## Experiencia laboral
-- **[Desarrollador Web (Digital Value)]:** He desarrollado diversas aplicaciones web utilizando el framework Mithril.js, logrando una experiencia de usuario fluida y un rendimiento eficiente. Además, tengo experiencia en la gestión y mantenimiento de portales web con Drupal, implementando soluciones personalizadas para la administración de contenidos y asegurando la seguridad y actualización de los sitios.
-
-He trabajado en desarrollo y gestión de backend mediante APIs, mejorando la integración y funcionalidad de las aplicaciones web. También he diseñado, desarrollado y mantenido sitios web en WordPress, personalizando temas y plugins para satisfacer las necesidades específicas de los clientes, garantizando un rendimiento óptimo y una alta disponibilidad.
-
-Mis habilidades incluyen la gestión de APIs y solicitudes AJAX para realizar conexiones efectivas con el servidor.
+- **[Desarrollador Web (Digital Value)]:** He desarrollado diversas aplicaciones web utilizando el framework Mithril.js, logrando una experiencia de usuario fluida y un rendimiento eficiente. Además, tengo experiencia en la gestión y mantenimiento de portales web con Drupal, implementando soluciones personalizadas para la administración de contenidos y asegurando la seguridad y actualización de los sitios. He trabajado en desarrollo y gestión de backend mediante APIs, mejorando la integración y funcionalidad de las aplicaciones web. También he diseñado, desarrollado y mantenido sitios web en WordPress, personalizando temas y plugins para satisfacer las necesidades específicas de los clientes, garantizando un rendimiento óptimo y una alta disponibilidad. Mis habilidades incluyen la gestión de APIs y solicitudes AJAX para realizar conexiones efectivas con el servidor.
 
 ## Contacto
 - **Correo Electrónico:** [jandrohinarejos@gmail.com](mailto:jandrohinarejos@gmail.com)
