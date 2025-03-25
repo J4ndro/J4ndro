@@ -1,13 +1,13 @@
 # <span style="color:blue;">Alejandro Hinarejos</span>
 
 ## Estudios 📘
-Actualmente, estoy estudiando Desarrollo de Aplicaciones Web, donde estoy adquiriendo habilidades en programación y diseño web para crear aplicaciones funcionales y atractivas.
+Actualmente,he acabado de estudiar Desarrollo de Aplicaciones Web, donde he adquirido habilidades en programación y diseño web para crear aplicaciones funcionales y atractivas.
 
 ## Sobre mí 🥸
 Hola, soy Alejandro Hinarejos, un apasionado por la tecnología y el desarrollo web. Me encanta resolver problemas y crear soluciones innovadoras que mejoren la experiencia de los usuarios. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. En mi tiempo libre, disfruto del deporte y la musica, lo cual me ayuda a mantenerme creativo y motivado.
 
 ## Habilidades ⚡
-- **Lenguajes de Programación:** HTML, CSS, JavaScript, TypeScript, PhP
+- **Lenguajes de Programación:** HTML, CSS, JavaScript, TypeScript, PhP, Python
 - **Frameworks y Librerías:** Bootstrap, Mithril.js, React.js, Tailwind.CSS
 - **Herramientas de Desarrollo:** Git, GitHub, VS Code, Docker
 - **Bases de Datos:** MySQL, APIrest
